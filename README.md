@@ -4,6 +4,8 @@ Todos os arquivos foram feitos pelos alunos que atuam como monitores. A partir d
 
 Sugestão de uso: para editar os arquivos, utilizei a IDE **IntelliJ IDEA** da **JetBrains**. Essa IDE não possui suporte nativo ao LaTeX, mas habilitei por meio da instalação do plugin [TeXiFy-IDEA](https://plugins.jetbrains.com/plugin/9473-texify-idea), que além de permitir a criação de configurações de compilação de arquivos LaTeX, ainda possui um _intellisense_ muito útil que sugere "tags" ao escrever. Sugiro o uso dessa IDE ao invés do TexMaker, que está próximo de ser obsoleto.
 
+Alerta: eu (Gabriel) trabalhei neste repositório utilizando especialmente o Linux Mint como sistema operacional, o que significa que as configurações definidas na pasta .idea estarão adaptadas para este sistema. O visualizador de PDF, Evince, **não funciona** no Windows. Será necessário usar outro (como Adobe Acrobat) ou configurar a abertura no navegador.
+
 # Como utilizar este repositório?
 Basta que você [baixe o repositório](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives) ou use o comando `git clone https://github.com/Br0t3x/aulas-monitoria-matematica.git` em um terminal.
 Após baixá-lo, basta navegar pelos arquivos, onde haverá arquivos _.tex_, em formato *LaTeX*, e PDFs atualizados com o conteúdo dos arquivos _.tex_.
